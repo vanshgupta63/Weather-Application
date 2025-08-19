@@ -24,3 +24,7 @@ For local development and testing, I used Visual Studio Code as my primary code 
 In terms of functionality, the application allows users to enter any city name, and upon submission, it fetches and displays weather data for that location in real-time. The interface dynamically updates with the temperature (in Celsius), weather description (e.g., clear sky, light rain), humidity percentage, and wind speed in km/h. I also included visual weather icons using the icon data provided by the API to make the output more intuitive. In future versions, I considered adding features such as GPS-based automatic location detection, 5-day forecasts, and dark mode toggle.
 
 This Weather Application project provided me with a solid understanding of how modern web applications interact with external APIs and dynamically update UI components based on user input and data changes. It helped me learn how to write clean, modular JavaScript code, design responsive layouts, and implement practical features using real-world data. Through this internship, I enhanced my frontend development skills and developed the confidence to build live, data-driven web applications. Overall, this project played a significant role in preparing me for real-world development environments and full-stack project workflows.
+
+#OUTPUT
+
+<img width="1390" height="603" alt="Image" src="https://github.com/user-attachments/assets/407ca05b-f9c3-4616-8304-41b2b38edeac" />
