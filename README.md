@@ -12,7 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-
 **During my internship, I developed a fully functional Weather Application as part of a hands-on project that aimed to strengthen my skills in frontend development, REST API integration, and responsive UI design. The main objective of this project was to create a user-friendly web application that provides real-time weather data based on the user’s input. The application fetches live weather information for any city entered by the user, including details such as temperature, humidity, wind speed, and weather conditions like clouds, rain, or sunshine. Through this project, I gained valuable experience in handling third-party APIs, managing asynchronous data requests, and presenting real-time data to users in a clean and visually appealing manner.
 
 The frontend of the application was built using HTML, CSS, and JavaScript, with a focus on simplicity, responsiveness, and interactive design. To further enhance the design and layout, I used Tailwind CSS, a utility-first CSS framework that allowed me to quickly build a modern and responsive UI without writing custom CSS from scratch. Tailwind made it easy to implement consistent spacing, layout, and color schemes, which helped in creating an aesthetically pleasing and user-friendly interface that works well across different screen sizes, including desktops, tablets, and mobile devices.
